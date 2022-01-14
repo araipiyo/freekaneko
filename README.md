@@ -8,4 +8,6 @@ Winnyの作者である金子勇氏が逮捕されたときに支援のために
 
 Genki Takiuchi氏のご助言によりGithub PagesでHTMLが表示できるようになりました。
 
-https://araipiyo.github.io/freekaneko/ja/index.html
+日本語版 → https://araipiyo.github.io/freekaneko/ja/index.html
+
+なぜか英語版もあるのです。ほとんど見る人はいなかったし、話題にもならなかったけど → https://araipiyo.github.io/freekaneko/en/index.html
